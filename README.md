@@ -1,4 +1,4 @@
-# Ryan Brownley | Solution Consultant & Data Engineer
+# Ryan Brownley
 ## Solution Consultant | Data Engineer | Developer
 
 **Address:** 9 Chapel Hill, Berkeley, GL13 9PZ  
