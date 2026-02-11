@@ -33,7 +33,7 @@ We welcome inquiries regarding new projects, partnerships, or consultations.
 | **Email** | [📧 Contact Brownley Limited](mailto:ryan@brownley.co.uk) |
 | **Location** | Berkeley, Gloucestershire, UK |
 
-[📄 Download Brownley Curriculum Vitae (PDF)](./'Curriculum Vitae - Ryan Brownley (202303).pdf')
+[📄 Download Brownley Curriculum Vitae (PDF)](./Curriculum%20Vitae%20-%20Ryan%20Brownley%20(202303).pdf)
 
 ---
 *© 2026 Brownley Limited. Registered in the UK.*
